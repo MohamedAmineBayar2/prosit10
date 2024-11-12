@@ -69,7 +69,7 @@ public class Main {
 
         //
         departementHashSet.supprimerDepartement(dep2);
-        System.out.println("\nAfter removing Finance department:");
+
         departementHashSet.displayDepartement();
 
         //
